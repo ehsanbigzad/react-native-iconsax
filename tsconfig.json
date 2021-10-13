@@ -1,0 +1,13 @@
+{
+  "include": ["src/*"],
+  "exclude": [],
+  "compilerOptions": {
+    "target": "ESNext",
+    "moduleResolution": "Node",
+    "allowJs": true,
+    "declaration": true,
+    "jsx": "react-native",
+    "outDir": "lib",
+    "declarationDir": "typings"
+  }
+}

@@ -1,0 +1,5 @@
+assets/
+svgr.config.js
+api-extractor.json
+tsconfig.json
+.gitignore
