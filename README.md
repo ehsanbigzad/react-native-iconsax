@@ -42,16 +42,16 @@ Icons can be customized by svg props:
 ### Props
 All [Svg property](https://github.com/react-native-community/react-native-svg#common-props) and the following props supported:
 
-| Prop                      | Description                                                          | Default          |
-| -----------------         | -------------------------------------------------------------------- | ---------------- |
-| **`width`**               | Width of the icon.                                                   | `24`             |
-| **`height`**              | Height of the icon.                                                  | `24`             |
-| **`stroke`**              | The stroke prop refers to the color.                                 | `"#292D32"`      |
-| **`strokeWidth`**         | The strokeWidth prop specifies the width of the outline on the icon. | `1.5`            |
-| **`strokeLinecap`**       | The strokeWidth prop specifies the width of the outline on the icon. | `"round"`        |
-| **`strokeLinejoin`**      | The strokeWidth prop specifies the width of the outline on the icon. | `"round"`        |
-| **`fill`**                | The fill prop refers to the color inside the icon.                   | `"none"`         |
-| **`viewBox`**             | The fill prop refers to the color inside the icon.                   | `"0 0 24 24"`    |
+| Prop                      | Description                                                             | Default          |
+| -----------------         | --------------------------------------------------------------------    | ---------------- |
+| **`width`**               | Width of the icon.                                                      | `24`             |
+| **`height`**              | Height of the icon.                                                     | `24`             |
+| **`stroke`**              | The stroke prop refers to the color.                                    | `"#292D32"`      |
+| **`strokeWidth`**         | The strokeWidth prop specifies the width of the outline on the icon.    | `1.5`            |
+| **`strokeLinecap`**       | StrokeLinecap defines different types of endings to an open path.       | `"round"`        |
+| **`strokeLinejoin`**      | Paths should appear at the point where two lines are joined together.   | `"round"`        |
+| **`fill`**                | The fill prop refers to the color inside the icon.                      | `"none"`         |
+| **`viewBox`**             | Defines the position and dimension, in user space, of an SVG viewport.  | `"0 0 24 24"`    |
 
 
 # Authors
