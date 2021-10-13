@@ -1,6 +1,6 @@
 {
   "name": "react-native-iconsax",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Iconsax icons as React Native component",
   "main": "lib/index.js",
   "typings": "lib/react-native-iconsax.d.ts",
